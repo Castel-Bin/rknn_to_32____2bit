@@ -1,0 +1,5 @@
+rknn-toolkit
+opencv-python
+numpy
+pyserial
+rknn-api
